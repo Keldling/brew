@@ -3,27 +3,141 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=100%">
+    <!-- <meta name="viewport" content="width=100%"> -->
     <title>Keldling Bryg</title>
   </head>
 
   <body>
-    <svg preserveAspectRatio="xMidYMid meet" viewBox="0 0 200 200">
-      <text fill="black" font-family="fantasy" font-size = "25" font-weight = "bold">  
-        <tspan x="10%" y="10%" >Keldling Bryg</tspan>
-      </text>
-     <filter id = "i1" x = "0%" y = "0%" width = "100%" height = "100%">
+
+    <!-- TITLE -->
+    <svg id="front" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1000">
+      <filter id = "i1" x = "0%" y = "0%" width = "100%" height = "100%">
         <feImage xlink:href = "images/profile/profile.png"/>
       </filter>
-      <g>
-        <rect x = "20%" y = "20%" width = "50%" height = "50%" filter = "url(#i1)"/>
-      </g>
-     <text fill="black" font-family="fantasy" font-size = "10" font-style = "italic">  
-         <tspan x="20%" y="75%">A Tale of a Journey</tspan>
-         <tspan x="20%" y="80%">on The Path of Learning</tspan>
-         <tspan x="20%" y="85%">by Trial and Fear</tspan>
-         <tspan x="20%" y="90%">to Brew a Beer.</tspan>
-      </text>
+
+      <svg x = "0%" y = "1%">
+        <line x1="5%" y1="0%" x2="95%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+      <svg x = "0%" y = "10%">
+        <text fill="black" font-family="fantasy" font-size = "100" font-weight = "bold">  
+          <tspan x="15%" y="10%" >Keldling Bryg</tspan>
+        </text>
+      </svg>
+      <svg x = "0%" y = "35%">
+        <a xlink:href="#contents">
+          <g>
+            <rect width = "50%" height = "50%" transform='scale(-1 1) translate(-500 0)' filter = "url(#i1)"/>
+          </g>
+        </a>
+        <svg x = "50%">
+          <text fill="black" font-family="fantasy" font-size = "25" font-style = "italic">  
+            <tspan x = "0%" y="5%">A Tale of a Journey</tspan>
+            <tspan x = "0%" y="15%">on The Path of Learning</tspan>
+            <tspan x = "0%" y="25%">by Trial and Fear</tspan>
+            <tspan x = "0%" y="35%">to Brew a Beer.</tspan>
+          </text>
+        </svg>
+      </svg>
+      <svg x = "0%" y = "99%">
+        <line x1="5%" y1="0%" x2="95%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+    </svg>
+
+   <p><!-- pagebreak --></p>
+ 
+    <!-- CONTENTS -->
+    <svg id="contents" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1000">
+
+      <svg x = "0%" y = "1%">
+        <line x1="5%" y1="0%" x2="95%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#front">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#i1)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "50" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Contents</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "25%">
+        <a xlink:href="#chapter1">
+          <svg >
+            <g>
+              <rect x = "20%" y = "0%" width = "10%" height = "10%" transform='scale(-1 1) translate(-400 0)' filter = "url(#i1)"/>
+            </g>
+          </svg>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "40" font-weight = "bold">  
+          <tspan x="20%" y="5%" >100% Munich Malt ?</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "99%">
+        <line x1="5%" y1="0%" x2="95%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg> 
+
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 1 -->
+    <svg id="chapter1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1000">
+
+      <svg x = "0%" y = "1%">
+        <line x1="5%" y1="0%" x2="95%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#contents">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#i1)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "50" font-weight = "bold">  
+          <tspan x="15%" y="5%" >100% Munich Malt ?</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "15%">
+        <text fill="black" font-family="fantasy" font-size = "15" font-style = "normal">
+          <tspan x = "10%" y="5%">Munich malt seems to have many usages:</tspan>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "15" font-style = "italic">
+          <tspan x = "20%" y="10%">"5–10% Munich malt contributes plenty of character to most ales"</tspan>
+          <tspan x = "20%" y="15%">"use 10–30% of the grist for dark beers and bocks"</tspan>
+          <tspan x = "20%" y="20%">"Can be used for up to 60% of the total malt in the brew"</tspan>
+          <tspan x = "20%" y="25%">"Can be used for up to 100 % of the total malt in the brew"</tspan>
+        </text>
+        <a href="https://www.morebeer.com/articles/using_munich_malt" target="_blank">
+          <circle cx="15%" cy="10%" r="1%" stroke="black" stroke-width="3" fill="white" />
+        </a>
+        <a href="http://byo.com/hops/item/1556-using-munich-vienna-malts-tips-from-the-pros" target="_blank">
+          <circle cx="15%" cy="15%" r="1%" stroke="black" stroke-width="3" fill="white" />
+        </a>
+        <a href="http://www.brewolution.com/index.php/en/products/ingredients/grain" target="_blank">
+          <circle cx="15%" cy="20%" r="1%" stroke="black" stroke-width="3" fill="white" />
+        </a>
+        <a href="http://www.haandbryg.dk/klumme/Noget%20om%20malt.htm" target="_blank">
+          <circle cx="15%" cy="25%" r="1%" stroke="black" stroke-width="3" fill="white" />
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "15" font-style = "normal">
+          <tspan x = "10%" y="30%">Munich malt supposedly has a low enzymes level (low diastatic power). It has been made with a high kilning temperature adding</tspan>
+          <tspan x = "10%" y="32%">color, aroma and body, but at the cost of less surving enzymes.  Some think of it as a base malt, some does not.</tspan>
+          <tspan x = "10%" y="34%">Lets find out how well it does as the one and only malt in a brew!</tspan>
+        </text>
+      </svg>
+
+
+      <svg x = "0%" y = "99%">
+        <line x1="5%" y1="0%" x2="95%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
      </svg> 
+
   </body>
 </html>
