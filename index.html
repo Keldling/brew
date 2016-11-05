@@ -18,6 +18,22 @@
         <feImage xlink:href = "src/art/profile/inkscape/profile-left.svg"/>
       </filter>
 
+      <filter id = "beer-color-chart" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "src/art/beer/color/beer-color-chart.svg"/>
+      </filter>
+
+      <filter id = "image-malt-munich" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "images/malt/malt-munich.jpg"/>
+      </filter>
+
+      <filter id = "image-yeast-m03-m44-m29" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "images/yeast/yeast_m03_m44_m29.jpg"/>
+      </filter>
+
+      <filter id = "image_100m64ekg_fs_uswc_ukda" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "images/beer/beer_100m64ekg_fs_uswc_ukda.jpg"/>
+      </filter>
+
       <svg x = "0%" y = "1%">
         <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
       </svg>
@@ -102,9 +118,15 @@
         <text fill="black" font-family="fantasy" font-size = "50" font-weight = "bold">  
           <tspan x="15%" y="5%" >100% Munich Malt ?</tspan>
         </text>
-      </svg>
+     </svg>
 
-      <svg x = "0%" y = "15%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+      <svg x = "0%" y = "10%">
+        <g>
+          <rect x = "25%" y = "2%" width = "50%" height = "25%" filter = "url(#image-malt-munich)"/>
+        </g>
+     </svg>
+
+      <svg x = "0%" y = "35%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
         <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
           <tspan x = "10%" y="5%">Munich malt seems to have many usages:</tspan>
         </text>
@@ -258,7 +280,13 @@
         </text>
       </svg>
 
-      <svg x = "0%" y = "15%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+      <svg x = "0%" y = "35%">
+        <g>
+          <rect x = "25%" y = "2%" width = "50%" height = "25%" filter = "url(#image-yeast-m03-m44-m29)"/>
+        </g>
+     </svg>
+
+      <svg x = "0%" y = "37%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
         <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
           <tspan x = "10%" y="30%">To test the Munich malt even further each wort was split in 3 tanks</tspan>
           <tspan x = "10%" y="32%"> - each one getting a different kind of Mangroove Jack dry yeast:</tspan>
@@ -333,14 +361,24 @@
           <tspan x = "10%" y="47%">for the 68 wort. Oddly, M44 only reached 58% for the 64 wort and 82% for the 68 wort.</tspan>
           <tspan x = "10%" y="49%">M29 got 95% and 93% apparent attenuation, so that beer might not be too sweet.</tspan>
         </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <a xlink:href= "http://beersmith.com/blog/2012/12/20/mash-temperature-and-beer-body-in-all-grain-brewing/" target="_blank">
+            <tspan x = "20%" y="52%" text-decoration = "underline">A possible explanation to this is alpha vs beta amylase.</tspan>
+          </a>
+          <tspan x = "10%" y="55%">At 68 degrees alpha amylase is dominant and it produces long sugar chains. Apparently </tspan>
+          <tspan x = "10%" y="57%">M03 is slow to to eat these, but M44 is not.</tspan>
+          <tspan x = "10%" y="59%">At 64 degrees beta amylase is dominant and it produces short sugar chains. M03 seems </tspan>
+          <tspan x = "10%" y="61%">to like those and M44 doesn't.</tspan>
+          <tspan x = "10%" y="63%">M29 seems to break and eat all kinds of sugar.</tspan>
+        </text>
 
-        <rect x = "13%" y="52%" width="72%" height="12%" style="fill:lightgray;stroke-width:3;stroke:rgb(0,0,0);opacity:0.95" />
+        <rect x = "13%" y="65%" width="72%" height="12%" style="fill:lightgray;stroke-width:3;stroke:rgb(0,0,0);opacity:0.95" />
         <text fill="black" font-family="fantasy" font-size = "20" font-style = "bold">
-          <tspan x = "15%" y="54%">Warning!</tspan>
-          <tspan x = "15%" y="56%">Only 2 weeks of fermentation is rather short, so a lot of fermentable sugar</tspan>
-          <tspan x = "15%" y="58%">may still be available in the brew. If the brew is bottled with extra sugar e.g.</tspan>
-          <tspan x = "15%" y="60%">5 grams per liter, it might turn into beer bombs. </tspan>
-          <tspan x = "15%" y="62%">It might sound exciting, but the cleaning is not... not at all.</tspan>
+          <tspan x = "15%" y="67%">Warning!</tspan>
+          <tspan x = "15%" y="69%">Only 2 weeks of fermentation is rather short, so a lot of fermentable sugar</tspan>
+          <tspan x = "15%" y="71%">may still be available in the brew. If the brew is bottled with extra sugar e.g.</tspan>
+          <tspan x = "15%" y="73%">5 grams per liter, it might turn into beer bombs. </tspan>
+          <tspan x = "15%" y="75%">It might sound exciting, but the cleaning is not... not at all.</tspan>
         </text>
 
       </svg>
@@ -349,7 +387,186 @@
         <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
       </svg>
 
+   </svg> 
+
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 5 -->
+    <svg id="chapter1_5" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_4">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Appearance</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "10%">
+        <g>
+          <rect x = "25%" y = "2%" width = "50%" height = "25%" filter = "url(#image_100m64ekg_fs_uswc_ukda)"/>
+        </g>
+     </svg>
+
+     <svg x = "0%" y = "35%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <a xlink:href= "src/art/beer/color/beer-color-chart.svg" target="_blank">
+            <tspan x = "10%" y="3%" text-decoration = "underline">Beer color is a relative easy thing to establish by using a color chart.</tspan>
+          </a>
+          <tspan x = "10%" y="5%">Clarity is another appearance feature relative easy to determine.</tspan>
+          <tspan x = "10%" y="7%">So are head (foam) and lace (curtains) it leaves.</tspan>
+        </text>
+
+      </svg>
+
+
+     <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
     </svg> 
 
+    <p><!-- pagebreak --></p>
+
+    <!-- 6 -->
+    <svg id="chapter1_6" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_5">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Aroma</tspan>
+        </text>
+      </svg>
+
+
+
+
+
+
+     <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg> 
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 7 -->
+    <svg id="chapter1_7" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_6">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Body</tspan>
+        </text>
+      </svg>
+
+
+
+
+
+
+     <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg> 
+
+
+    <p><!-- pagebreak --></p>
+
+
+    <!-- 8 -->
+    <svg id="chapter1_8" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_7">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Taste</tspan>
+        </text>
+      </svg>
+
+
+
+
+
+
+     <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg>     
+
+
+   <p><!-- pagebreak --></p>
+
+
+    <!-- A1 -->
+    <svg id="appendix1_1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_8">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Appendix - Beer Color Chart</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "6%">
+        <g>
+          <rect x = "10%" y = "10%" width = "80%" height = "80%" stroke="black" stroke-width="1" fill="transparent"/>
+          <a xlink:href="src/art/beer/color/beer-color-chart.svg" target="_blank">
+            <rect x = "10%" y = "10%" width = "80%" height = "80%" filter = "url(#beer-color-chart)"/>
+          </a>
+        </g>
+      </svg>
+
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg>     
+
   </body>
+
 </html>
