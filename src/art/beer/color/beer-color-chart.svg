@@ -1319,7 +1319,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60150393"
-     inkscape:cx="376.38228"
+     inkscape:cx="214.67066"
      inkscape:cy="526.1811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1346,7 +1346,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1648,15 +1648,15 @@
        inkscape:export-xdpi="2880"
        sodipodi:linespacing="125%"
        id="text3407-4-1-9-3"
-       y="99.803368"
-       x="70.120804"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:91.48163605px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="91.490868"
+       x="53.495808"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:91.48163605px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="99.803368"
-         x="70.120804"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="91.490868"
+         x="53.495808"
          id="tspan3409-6-4-4-6"
-         sodipodi:role="line">BEER COLOR</tspan></text>
+         sodipodi:role="line">BEER COLOR CHART</tspan></text>
     <text
        inkscape:export-ydpi="2880"
        inkscape:export-xdpi="2880"
@@ -2263,5 +2263,27 @@
          x="-596.68304"
          sodipodi:role="line"
          id="tspan9253-3">SRM  or  EBC/2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.126801"
+       y="1037.2622"
+       id="text4658"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4660"
+         x="29.126801"
+         y="1037.2622">Keldling Brew - &quot;A Tale of a Journey on The Path of Learning by Trial and Fear to Brew a Beer&quot; - https://keldling.github.io/brew/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="318.79099"
+       y="115.68217"
+       id="text4662"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4664"
+         x="318.79099"
+         y="115.68217">Version 1.0</tspan></text>
   </g>
 </svg>
