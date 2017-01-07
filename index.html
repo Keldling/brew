@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <!-- <meta name="viewport" content="width=100%"> -->
+    <title>Keldling Brew</title>
+    <script lang="javascript">
+      function gotoHashtag(hashtag)
+      {
+        location.href = hashtag;                 //Thank you Safari for making me add this method :(
+      }
+    </script>
+  </head>
+
+  <body>
+
+    <!-- TITLE -->
+    <svg id="front" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+      <filter id = "profile-right" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "src/art/profile/inkscape/profile-right.svg"/>
+      </filter>
+      <filter id = "profile-left" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "src/art/profile/inkscape/profile-left.svg"/>
+      </filter>
+
+      <filter id = "beer-color-chart" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "src/art/beer/color/beer-color-chart.svg"/>
+      </filter>
+
+      <filter id = "beer-tasting-form" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "src/art/beer/tasting/beer-tasting-form.svg"/>
+      </filter>
+
+      <filter id = "image-malt-munich" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "images/malt/malt-munich.jpg"/>
+      </filter>
+
+      <filter id = "image-yeast-m03-m44-m29" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "images/yeast/yeast_m03_m44_m29.jpg"/>
+      </filter>
+
+      <filter id = "image_100m64ekg_fs_uswc_ukda" x = "0%" y = "0%" width = "100%" height = "100%">
+        <feImage xlink:href = "images/beer/beer_100m64ekg_fs_uswc_ukda.jpg"/>
+      </filter>
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+      <svg x = "0%" y = "10%">
+        <text fill="black" font-family="fantasy" font-size = "100" font-weight = "bold">  
+          <tspan x="15%" y="10%" >Keldling Brew</tspan>
+        </text>
+      </svg>
+      <svg x = "0%" y = "30%" >
+        <a xlink:href="#contents" onclick="gotoHashtag('#contents')">
+          <g >
+            <rect x = "0%" y = "0%" width = "50%" height = "50%" filter = "url(#profile-right)"/>
+          </g>
+        </a>
+        <svg x = "50%">
+          <text fill="black" font-family="fantasy" font-size = "25" font-style = "italic">  
+            <tspan x = "0%" y="20%">A Tale of a Journey</tspan>
+            <tspan x = "0%" y="25%">on The Path of Learning</tspan>
+            <tspan x = "0%" y="30%">by Trial and Fear</tspan>
+            <tspan x = "0%" y="35%">to Brew a Beer.</tspan>
+          </text>
+        </svg>
+      </svg>
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+    </svg>
+
+   <p><!-- pagebreak --></p>
+ 
+    <!-- CONTENTS -->
+    <svg id="contents" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#front" onclick="gotoHashtag('#front')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "50" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Contents</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "25%">
+        <a xlink:href="#chapter1" onclick="gotoHashtag('#chapter1')">
+          <g>
+            <rect x = "10%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-right)"/>
+          </g>
+          <text fill="black" font-family="fantasy" font-size = "40" font-weight = "bold">  
+            <tspan x="20%" y="5%" text-decoration = "underline">100% Munich Malt ?</tspan>
+          </text>
+        </a>
+      </svg>
+      
+      
+      <svg x = "0%" y = "50%">
+        <a xlink:href="#appendix1_1" onclick="gotoHashtag('#appendix1_1')">
+          <g>
+            <rect x = "10%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-right)"/>
+          </g>
+          <text fill="black" font-family="fantasy" font-size = "40" font-weight = "bold">  
+            <tspan x="20%" y="5%" text-decoration = "underline">Appendix - Beer Color Chart</tspan>
+          </text>
+        </a>
+      </svg>
+
+      <svg x = "0%" y = "57%">
+        <a xlink:href="#appendix2_1" onclick="gotoHashtag('#appendix2_1')">
+          <g>
+            <rect x = "10%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-right)"/>
+          </g>
+          <text fill="black" font-family="fantasy" font-size = "40" font-weight = "bold">  
+            <tspan x="20%" y="5%" text-decoration = "underline">Appendix - Beer Tasting Form</tspan>
+          </text>
+        </a>
+      </svg>
+
+
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg> 
+
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 1 -->
+    <svg id="chapter1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#contents" onclick="gotoHashtag('#contents')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "50" font-weight = "bold">  
+          <tspan x="15%" y="5%" >100% Munich Malt ?</tspan>
+        </text>
+     </svg>
+
+      <svg x = "0%" y = "10%">
+        <g>
+          <rect x = "25%" y = "2%" width = "50%" height = "25%" filter = "url(#image-malt-munich)"/>
+        </g>
+     </svg>
+
+      <svg x = "0%" y = "35%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="5%">Munich malt seems to have many usages:</tspan>
+        </text>
+        <circle cx="15%" cy="9.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="14.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="19.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="24.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "italic">
+          <a xlink:href= "https://www.morebeer.com/articles/using_munich_malt" target="_blank">
+            <tspan x = "20%" y="10%" text-decoration = "underline">"5–10% Munich malt contributes plenty of character to most ales"</tspan>
+          </a>
+          <a xlink:href= "http://byo.com/hops/item/1556-using-munich-vienna-malts-tips-from-the-pros" target="_blank">
+            <tspan x = "20%" y="15%" text-decoration = "underline">"use 10–30% of the grist for dark beers and bocks"</tspan>
+          </a>
+          <a xlink:href= "http://www.brewolution.com/index.php/en/products/ingredients/grain" target="_blank">
+            <tspan x = "20%" y="20%" text-decoration = "underline">"Can be used for up to 60% of the total malt in the brew"</tspan>
+          </a>
+          <a xlink:href= "http://www.haandbryg.dk/klumme/Noget%20om%20malt.htm" target="_blank">
+            <tspan x = "20%" y="25%" text-decoration = "underline">"Can be used for up to 100 % of the total malt in the brew"</tspan>
+          </a>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="32%">Munich malt has been made with a high kilning temperature adding color, aroma and body,</tspan>
+          <tspan x = "10%" y="34%">but at the cost of less surviving enzymes. Enzymes are needed during mashing to</tspan>
+          <tspan x = "10%" y="36%">break malt starks into sugar and sugar is needed by the yeast to produce alchohol.</tspan>
+          <tspan x = "10%" y="38%">Munich malt supposedly has an enzymes level (diastatic power) so low, that it only just </tspan>
+          <tspan x = "10%" y="40%">can convert its own starks to sugar.</tspan>
+          <tspan x = "10%" y="42%">In other words munich malt hasn't got much extra power to help other malts (with a lower </tspan>
+          <tspan x = "10%" y="44%">diastatic power), which might explain why some don't consider Munich a base malt.</tspan>
+          <tspan x = "10%" y="46%">When Munich malt is added a(nother) base malt, it is said to add body and taste of</tspan>
+          <tspan x = "10%" y="48%">malt and caramel. On that note it would be nice to try that taste - on its own. </tspan>
+          <tspan x = "10%" y="51%" font-weight="bold">This is a brewing experiment with the purpose of getting to know</tspan>
+          <tspan x = "10%" y="53%" font-weight="bold">the characteristics of Munich malt. The beer produced might teach</tspan>
+          <tspan x = "10%" y="55%" font-weight="bold">us to recognize Munich malt in beers and maybe even to value it enough </tspan>
+          <tspan x = "10%" y="57%" font-weight="bold">to let it find its way to our own brews. </tspan>
+        </text>
+      </svg>
+
+
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+     </svg> 
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 2 -->
+    <svg id="chapter1_2" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1" onclick="gotoHashtag('#chapter1')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >2 Mashing Variations</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "15%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="5%">To test the Munich malt 2 worts were made:</tspan>
+        </text>
+        <circle cx="15%" cy="9.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="14.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "20%" y="10%" >The 1st was made with a mashing temperature of 64 degress Celsius.</tspan>
+          <tspan x = "20%" y="15%" >The 2nd was made with a mashing temperature of 68 degress Celsius.</tspan>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="20%">The idea behind this variation is to have the enzymes in the Munich</tspan>
+          <tspan x = "10%" y="22%">malt work differently. The 64 wort should become more clear (less haze)</tspan>
+          <tspan x = "10%" y="24%">and sweet than the 68 wort. The 68 wort should become stronger and with</tspan>
+          <tspan x = "10%" y="26%">more body than the 64 wort. In practice other things might happen.</tspan>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="30%">The brewing happened as follows:</tspan>
+        </text>
+        <circle cx="15%" cy="34.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="39.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="44.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="49.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="54.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="59.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="64.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="69.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "20%" y="35%" >Water heated to to 64 or 68 degrees Celsius.</tspan>
+          <tspan x = "20%" y="40%" >8 kilos of English Munich Malt (10-15 EBC) added during 10-15 minutes.</tspan>
+          <tspan x = "20%" y="45%" >Circulation running during 1 hour mashing.</tspan>
+          <tspan x = "20%" y="50%" >Water heated to 78 degrees Celsius during 10-15 minutes before mashout.</tspan>
+          <tspan x = "20%" y="55%" >Wort set to boil for 1 hour with 33 grams of East Kent Golding hops.</tspan>
+          <tspan x = "20%" y="60%" >Another 33 grams added after 30 minutes of boiling.</tspan>
+          <tspan x = "20%" y="65%" >Another 33 grams and 10 grams of Irish Moss added after 45 minutes.</tspan>
+          <tspan x = "20%" y="70%" >Wort chilled.</tspan>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="75%">The hops contains around 5% alpha acids, so the bitter hops should add</tspan>
+          <tspan x = "10%" y="77%">around half a gram of alpha acids (30[%] * 5[%] * 33[g]), the taste hops adds</tspan>
+          <tspan x = "10%" y="79%">half of that and the aroma hops adds a quarter of that. In total about</tspan>
+          <tspan x = "10%" y="81%">0.87 grams of alpha acids may end up in the beer. </tspan>
+        </text>
+      </svg>
+
+
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+     </svg> 
+
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 3 -->
+    <svg id="chapter1_3" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="5%">The 64 wort became 22.5 liters, so its bitterness landed on approximately</tspan>
+          <tspan x = "10%" y="7%"> 38-39 IBU (1000[mg/g] * 0.87[g] / 22.5[l] = 38.5[mg/l]). A whole liter </tspan>
+          <tspan x = "10%" y="9%">more of the 68 wort made that land on 37 IBU, so they both should have</tspan>
+          <tspan x = "10%" y="11%">a bitternes similar to a standard pilzner.</tspan>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="16%">The original gravity ended at 1.058 for the 64 wort and 1.068 for the</tspan>
+          <tspan x = "10%" y="18%">68 wort, so the higher mashing temperature definitely gave it more body.</tspan>
+          <tspan x = "10%" y="20%">If the 68 wort also was 22.5 liter its specific gravity would be higher.</tspan>
+        </text>
+      </svg>
+
+
+      <svg x = "0%" y = "30%">
+        <a xlink:href="#chapter1_2" onclick="gotoHashtag('#chapter1_2')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >3 Fermentation Variations</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "35%">
+        <g>
+          <rect x = "25%" y = "2%" width = "50%" height = "25%" filter = "url(#image-yeast-m03-m44-m29)"/>
+        </g>
+     </svg>
+
+      <svg x = "0%" y = "37%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="30%">To test the Munich malt even further each wort was split in 3 tanks</tspan>
+          <tspan x = "10%" y="32%"> - each one getting a different kind of Mangroove Jack dry yeast:</tspan>
+        </text>
+        <circle cx="15%" cy="36.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="41.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="46.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "italic">
+          <tspan x = "20%" y="37%" >UK Dark Ale (M03).</tspan>
+          <tspan x = "20%" y="42%" >US West Coast (M44).</tspan>
+          <tspan x = "20%" y="47%" >French Saison (M29).</tspan>
+           <a xlink:href= "http://www.homebrewing.org/Mangrove-Jacks-Newcastle-Dark-Ale-M03-Dried-Yeast-_p_4241.html" target="_blank">
+            <tspan x = "20%" y="37%" text-decoration = "underline">UK Dark Ale (M03). Full, rich dark fruit. Flocculation: Medium. Attenuation: Medium.</tspan>
+          </a>
+          <a xlink:href= "http://mangrovejacks.com/collections/craft-series-yeasts/products/u-s-west-coast-yeast-10g-coming-soon" target="_blank">
+            <tspan x = "20%" y="42%" text-decoration = "underline">US West Coast (M44). Clean. Flocculation: 4/5. Attenuation: 77-85%.</tspan>
+          </a>
+          <a xlink:href= "http://mangrovejacks.com/products/m29-french-sasion-yeast-10-g" target="_blank">
+            <tspan x = "20%" y="47%" text-decoration = "underline">French Saison (M29). Spicy, fruity and pepper. Flocculation: 3/5. Attenuation: 85-90%.</tspan>
+          </a>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="52%">These 3 different yeasts should turn the wort into 3 different beers...</tspan>
+          <tspan x = "10%" y="54%"> ... or at least beers with 3 different alcohol levels (attenuation differs).</tspan>
+          <tspan x = "10%" y="56%">Does yeast really add taste? Find out, we shall.</tspan>
+        </text>
+
+      </svg>
+
+
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg> 
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 4-->
+    <svg id="chapter1_4" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="3%">After 2 one week fermentations the 6 different brews reached the</tspan>
+          <tspan x = "10%" y="5%">following final gravities (FG) and alcohol percentages (ABV):</tspan>
+        </text>
+        <circle cx="15%" cy="8.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="13.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="18.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="23.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="28.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="15%" cy="33.5%" r="0.5%" stroke="black" stroke-width="3" fill="white" />
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "20%" y="9%" >64 wort with UK Dark Ale (M03) reached 5.6% alcohol (OG 1.058, FG 1.016).</tspan>
+          <tspan x = "20%" y="14%" >68 wort with UK Dark Ale (M03) reached 6.1% alcohol (OG 1.068, FG 1.022).</tspan>
+          <tspan x = "20%" y="19%" >64 wort with US West Coast (M44) reached 6.2% alcohol (OG 1.058, FG 1.011).</tspan>
+          <tspan x = "20%" y="24%" >68 wort with US West Coast (M44) reached 7.5% alcohol (OG 1.068, FG 1.012).</tspan>
+          <tspan x = "20%" y="29%" >64 wort with French Saison (M29) reached 7.3% alcohol (OG 1.058, FG 1.003).</tspan>
+          <tspan x = "20%" y="34%" >68 wort with French Saison (M29) reached 8.4% alcohol (OG 1.068, FG 1.005).</tspan>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="39%">In general the 68 wort becomes stronger than the 64 wort. It also</tspan>
+          <tspan x = "10%" y="41%">ends up with a higher density, which could mean that it also ends up with</tspan>
+          <tspan x = "10%" y="43%">more sugar.</tspan>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <tspan x = "10%" y="45%">The M03 yeast had an apparent attenuation of 72% for the 64 wort, but only 68%</tspan>
+          <tspan x = "10%" y="47%">for the 68 wort. Oddly, M44 only reached 58% for the 64 wort and 82% for the 68 wort.</tspan>
+          <tspan x = "10%" y="49%">M29 got 95% and 93% apparent attenuation, so that beer might not be too sweet.</tspan>
+        </text>
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <a xlink:href= "http://beersmith.com/blog/2012/12/20/mash-temperature-and-beer-body-in-all-grain-brewing/" target="_blank">
+            <tspan x = "20%" y="52%" text-decoration = "underline">A possible explanation to this is alpha vs beta amylase.</tspan>
+          </a>
+          <tspan x = "10%" y="55%">At 68 degrees alpha amylase is dominant and it produces long sugar chains. Apparently </tspan>
+          <tspan x = "10%" y="57%">M03 is slow to to eat these, but M44 is not.</tspan>
+          <tspan x = "10%" y="59%">At 64 degrees beta amylase is dominant and it produces short sugar chains. M03 seems </tspan>
+          <tspan x = "10%" y="61%">to like those and M44 doesn't.</tspan>
+          <tspan x = "10%" y="63%">M29 seems to break and eat all kinds of sugar.</tspan>
+        </text>
+
+        <rect x = "13%" y="65%" width="72%" height="12%" style="fill:lightgray;stroke-width:3;stroke:rgb(0,0,0);opacity:0.95" />
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "bold">
+          <tspan x = "15%" y="67%">Warning!</tspan>
+          <tspan x = "15%" y="69%">Only 2 weeks of fermentation is rather short, so a lot of fermentable sugar</tspan>
+          <tspan x = "15%" y="71%">may still be available in the brew. If the brew is bottled with extra sugar e.g.</tspan>
+          <tspan x = "15%" y="73%">5 grams per liter, it might turn into beer bombs. </tspan>
+          <tspan x = "15%" y="75%">It might sound exciting, but the cleaning is not... not at all.</tspan>
+        </text>
+
+      </svg>
+     
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+   </svg> 
+
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 5 -->
+    <svg id="chapter1_5" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_4" onclick="gotoHashtag('#chapter1_4')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Appearance</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "10%">
+        <g>
+          <rect x = "25%" y = "2%" width = "50%" height = "25%" filter = "url(#image_100m64ekg_fs_uswc_ukda)"/>
+        </g>
+     </svg>
+
+     <svg x = "0%" y = "35%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+
+        <text fill="black" font-family="fantasy" font-size = "20" font-style = "normal">
+          <a xlink:href= "src/art/beer/color/beer-color-chart.svg" target="_blank">
+            <tspan x = "10%" y="3%" text-decoration = "underline">Beer color is a relative easy thing to establish by using a color chart.</tspan>
+          </a>
+          <tspan x = "10%" y="5%">Clarity is another appearance feature relative easy to determine.</tspan>
+          <tspan x = "10%" y="7%">So are head (foam) and lace (curtains) it leaves.</tspan>
+        </text>
+
+      </svg>
+
+
+     <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg> 
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 6 -->
+    <svg id="chapter1_6" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_5" onclick="gotoHashtag('#chapter1_5')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Aroma</tspan>
+        </text>
+      </svg>
+
+
+
+
+
+
+     <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg> 
+
+    <p><!-- pagebreak --></p>
+
+    <!-- 7 -->
+    <svg id="chapter1_7" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_6" onclick="gotoHashtag('#chapter1_6')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Body</tspan>
+        </text>
+      </svg>
+
+
+
+
+
+
+     <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg> 
+
+
+    <p><!-- pagebreak --></p>
+
+
+    <!-- 8 -->
+    <svg id="chapter1_8" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#chapter1_7" onclick="gotoHashtag('#chapter1_7')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Taste</tspan>
+        </text>
+      </svg>
+
+
+
+
+
+
+     <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg>     
+
+
+   <p><!-- pagebreak --></p>
+
+
+    <!-- A1 -->
+    <svg id="appendix1_1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#contents" onclick="gotoHashtag('#contents')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Appendix - Beer Color Chart</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "6%">
+        <g>
+          <rect x = "10%" y = "10%" width = "80%" height = "80%" stroke="black" stroke-width="1" fill="transparent"/>
+          <a xlink:href="src/art/beer/color/beer-color-chart.svg" target="_blank">
+            <rect x = "10%" y = "10%" width = "80%" height = "80%" filter = "url(#beer-color-chart)"/>
+          </a>
+        </g>
+      </svg>
+
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg>     
+
+
+
+   <p><!-- pagebreak --></p>
+
+
+    <!-- A1 -->
+    <svg id="appendix2_1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1325">
+
+      <svg x = "0%" y = "1%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+      <svg x = "0%" y = "5%">
+        <a xlink:href="#contents" onclick="gotoHashtag('#contents')">
+          <g>
+            <rect x = "5%" y = "0%" width = "10%" height = "10%" filter = "url(#profile-left)"/>
+          </g>
+        </a>
+        <text fill="black" font-family="fantasy" font-size = "35" font-weight = "bold">  
+          <tspan x="15%" y="5%" >Appendix - Beer Tasting Log</tspan>
+        </text>
+      </svg>
+
+      <svg x = "0%" y = "6%">
+        <g>
+          <rect x = "10%" y = "10%" width = "80%" height = "80%" stroke="black" stroke-width="1" fill="transparent"/>
+          <a xlink:href="src/art/beer/tasting/beer-tasting-form.svg" target="_blank">
+            <rect x = "10%" y = "10%" width = "80%" height = "80%" filter = "url(#beer-tasting-form)"/>
+          </a>
+        </g>
+      </svg>
+
+      <svg x = "0%" y = "99%">
+        <line x1="10%" y1="0%" x2="90%" y2="0%" style="stroke:rgb(0,0,0);stroke-width:2" />
+      </svg>
+
+    </svg>     
+
+
+
+
+  </body>
+
+</html>
