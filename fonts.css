@@ -1,0 +1,34 @@
+/* Title, Chapters */
+@font-face {
+font-family: "Metamorphous";
+src: url(fonts/metamorphous/metamorphous-regular.ttf);
+}
+
+/* Body */
+@font-face {
+font-family: "Delius";
+src: url(fonts/delius/delius-regular.ttf);
+}
+
+/* Body bullet text */
+@font-face {
+font-family: "Dekko";
+src: url(fonts/dekko/dekko-regular.ttf);
+}
+
+/* handwritten ones */
+
+@font-face {
+font-family: "Garineldo";
+src: url(fonts/garineldo/Garineldo.otf);
+}
+
+@font-face {
+font-family: "Kleymissky";
+src: url(fonts/kleymissky/Kleymissky_0283.otf);
+}
+
+@font-face {
+font-family: "Konstytucyja";
+src: url(fonts/konstytucyja/konstytucyja_091.ttf);
+}
