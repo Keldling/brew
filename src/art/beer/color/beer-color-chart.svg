@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg
+<?xml-stylesheet href="../../../../fonts/fonts.css" type="text/css"?><svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -1319,7 +1319,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60150393"
-     inkscape:cx="214.67066"
+     inkscape:cx="372.04724"
      inkscape:cy="526.1811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1354,35 +1354,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:50.35900497px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1037.9921"
-       y="773.13379"
-       id="text3348-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3350-3"
-         x="1037.9921"
-         y="773.13379"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Curlz MT';-inkscape-font-specification:'Curlz MT'" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Trattatello;-inkscape-font-specification:Trattatello;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1863.9957"
-       y="713.685"
-       id="text3429-1-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1863.9957"
-         y="713.685"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trattatello;-inkscape-font-specification:Trattatello;text-align:center;text-anchor:middle"
-         id="tspan3473-9" /><tspan
-         sodipodi:role="line"
-         x="1863.9957"
-         y="763.685"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trattatello;-inkscape-font-specification:Trattatello;text-align:center;text-anchor:middle"
-         id="tspan3532-4" /></text>
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:18;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4728"
@@ -1390,49 +1361,6 @@
        cy="252.3622"
        rx="100"
        ry="80" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:124.79763031px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="952.99792"
-       y="-1321.5583"
-       id="text3407-4-1-9-0-0-8"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="2880"
-       inkscape:export-ydpi="2880"
-       transform="scale(1.4551403,0.68721895)"><tspan
-         sodipodi:role="line"
-         id="tspan3409-6-4-4-7-4-6"
-         x="952.99792"
-         y="-1321.5583"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:124.79763031px;font-family:Herculanum;-inkscape-font-specification:Herculanum" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.78710938px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2076.2722"
-       y="-269.64697"
-       id="text3407-4-1-9-77-2-4"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="2880"
-       inkscape:export-ydpi="2880"><tspan
-         sodipodi:role="line"
-         id="tspan3409-6-4-4-4-6-6"
-         x="2076.2722"
-         y="-269.64697"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.78710938px;font-family:Herculanum;-inkscape-font-specification:Herculanum" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.78710938px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2086.6174"
-       y="10.286117"
-       id="text3407-4-1-9-77-2-4-3"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="2880"
-       inkscape:export-ydpi="2880"><tspan
-         sodipodi:role="line"
-         id="tspan3409-6-4-4-4-6-6-1"
-         x="2086.6174"
-         y="10.286117"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.78710938px;font-family:Herculanum;-inkscape-font-specification:Herculanum" /></text>
     <g
        id="g10772-4"
        transform="matrix(-0.22072488,0,0,0.22072488,679.88652,73.054728)">
@@ -1650,9 +1578,9 @@
        id="text3407-4-1-9-3"
        y="91.490868"
        x="53.495808"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;line-height:125%;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;text-align:start;writing-mode:lr-tb;text-anchor:start"
          y="91.490868"
          x="53.495808"
          id="tspan3409-6-4-4-6"
@@ -1664,9 +1592,9 @@
        id="text3407-4-1-9-7"
        y="202.27362"
        x="309.38345"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="202.27362"
          x="309.38345"
          id="tspan3409-6-4-4-64"
@@ -1678,13 +1606,13 @@
        id="text3407-4-1-9-0"
        y="182.08539"
        x="308.12955"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="182.08539"
          x="308.12955"
          id="tspan3409-6-4-4-7"
-         sodipodi:role="line">Straw</tspan></text>
+         sodipodi:role="line">STRAW</tspan></text>
     <text
        inkscape:export-ydpi="2880"
        inkscape:export-xdpi="2880"
@@ -1692,9 +1620,9 @@
        id="text3407-4-1-9-77"
        y="256.08304"
        x="312.24008"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="256.08304"
          x="312.24008"
          id="tspan3409-6-4-4-4"
@@ -1706,9 +1634,9 @@
        id="text3407-4-1-9-64"
        y="229.22569"
        x="310.19452"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="229.22569"
          x="310.19452"
          id="tspan3409-6-4-4-0"
@@ -1720,9 +1648,9 @@
        id="text3407-4-1-9-4-3"
        y="368.03317"
        x="309.40417"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="368.03317"
          x="309.40417"
          id="tspan3409-6-4-4-9-1"
@@ -1734,9 +1662,9 @@
        id="text3407-4-1-9-4-4"
        y="438.18045"
        x="309.73956"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="438.18045"
          x="309.73956"
          id="tspan3409-6-4-4-9-74"
@@ -1748,9 +1676,9 @@
        id="text3407-4-1-9-4-1"
        y="686.17401"
        x="309.73956"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="686.17401"
          x="309.73956"
          id="tspan3409-6-4-4-9-16"
@@ -1843,9 +1771,9 @@
        id="text3407-4-1-9-0-0"
        y="245.93704"
        x="75.948662"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.63679123px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000015px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.63679123px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000015px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="245.93704"
          x="75.948662"
          id="tspan3409-6-4-4-7-4"
@@ -1858,9 +1786,9 @@
        id="text3407-4-1-9-0-0-4-0"
        y="263.07001"
        x="84.034401"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.34349632px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999999px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.34349632px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999999px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="263.07001"
          x="84.034401"
          id="tspan3409-6-4-4-7-4-5-1"
@@ -1873,9 +1801,9 @@
        id="text3407-4-1-9-0-0-4-3"
        y="344.16199"
        x="71.881279"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.65860748px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999979px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.65860748px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999979px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="344.16199"
          x="71.881279"
          id="tspan3409-6-4-4-7-4-5-8"
@@ -1888,9 +1816,9 @@
        id="text3407-4-1-9-0-0-4-1"
        y="405.50876"
        x="72.666306"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.08162308px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999985px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.08162308px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999985px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="405.50876"
          x="72.666306"
          id="tspan3409-6-4-4-7-4-5-84"
@@ -1903,10 +1831,10 @@
        id="text3407-4-1-9-0-0-4-51"
        y="514.80359"
        x="57.755184"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.41262054px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999981px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
          id="tspan7943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.41262054px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999981px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="514.80359"
          x="57.755184"
          sodipodi:role="line">14</tspan></text>
@@ -1918,9 +1846,9 @@
        id="text3407-4-1-9-0-0-4-34"
        y="651.4563"
        x="54.96891"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.72691345px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000004px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.72691345px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000004px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="651.4563"
          x="54.96891"
          id="tspan3409-6-4-4-7-4-5-19"
@@ -1933,9 +1861,9 @@
        id="text3407-4-1-9-0-0-4-6"
        y="617.70709"
        x="53.839252"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61852646px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5000002px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61852646px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5000002px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="617.70709"
          x="53.839252"
          id="tspan3409-6-4-4-7-4-5-9"
@@ -1948,9 +1876,9 @@
        id="text3407-4-1-9-0-0-4-4"
        y="949.36072"
        x="67.402824"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.31771278px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000002px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.31771278px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000002px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="949.36072"
          x="67.402824"
          id="tspan3409-6-4-4-7-4-5-4"
@@ -1963,9 +1891,9 @@
        id="text3407-4-1-9-0-0-4-25"
        y="826.15375"
        x="61.456867"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.964077px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.964077px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="826.15375"
          x="61.456867"
          id="tspan3409-6-4-4-7-4-5-5"
@@ -2015,13 +1943,17 @@
        id="text3407-4-1-9-77-2"
        y="320.06384"
        x="309.70911"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="320.06384"
          x="309.70911"
          id="tspan3409-6-4-4-4-6"
-         sodipodi:role="line">DEEP AMBER / LIGHT COPPER </tspan></text>
+         sodipodi:role="line"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';font-size:30px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+           id="tspan6834"><tspan
+             style="font-size:30px;-inkscape-font-specification:'Dekko, Normal';font-family:Dekko;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+             id="tspan6836"> DEEP AMBER / LIGHT COPPER</tspan></tspan></tspan></text>
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
@@ -2041,9 +1973,9 @@
        id="text3407-4-1-9-77-2-0"
        y="399.4902"
        x="309.70911"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="399.4902"
          x="309.70911"
          id="tspan3409-6-4-4-4-6-4"
@@ -2080,10 +2012,10 @@
        id="text3407-4-1-9-0-0-4-34-9"
        y="622.53424"
        x="64.682938"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.53952789px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000016px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
          id="tspan7872"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.53952789px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000016px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="622.53424"
          x="64.682938"
          sodipodi:role="line">22</tspan></text>
@@ -2095,9 +2027,9 @@
        id="text3407-4-1-9-0-0-4-25-8"
        y="989.29169"
        x="57.612179"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.29746628px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999998px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.29746628px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999998px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="989.29169"
          x="57.612179"
          id="tspan3409-6-4-4-7-4-5-5-3"
@@ -2115,9 +2047,9 @@
        id="text3407-4-1-9-4-1-1"
        y="762.16077"
        x="309.73956"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="762.16077"
          x="309.73956"
          id="tspan3409-6-4-4-9-16-3"
@@ -2129,9 +2061,9 @@
        id="text3407-4-1-9-4-1-3"
        y="617.98328"
        x="312.51453"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="617.98328"
          x="312.51453"
          id="tspan3409-6-4-4-9-16-03"
@@ -2143,9 +2075,9 @@
        id="text3407-4-1-9-4-1-8"
        y="525.03522"
        x="309.70911"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.49376869px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="525.03522"
          x="309.70911"
          id="tspan3409-6-4-4-9-16-8"
@@ -2158,10 +2090,10 @@
        id="text3407-4-1-9-0-0-4-51-8"
        y="432.51791"
        x="57.125614"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.95447922px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000009px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
          id="tspan7943-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.95447922px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000009px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="432.51791"
          x="57.125614"
          sodipodi:role="line">10</tspan></text>
@@ -2173,9 +2105,9 @@
        id="text3407-4-1-9-0-0-4-6-9"
        y="650.16071"
        x="53.628719"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.44400787px;line-height:125%;font-family:Herculanum;-inkscape-font-specification:Herculanum;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999997px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.44400787px;font-family:Herculanum;-inkscape-font-specification:Herculanum"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.49999997px;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
          y="650.16071"
          x="53.628719"
          id="tspan3409-6-4-4-7-4-5-9-6"
@@ -2194,7 +2126,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.3323288px;line-height:125%;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          id="flowPara8154"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.3323288px;line-height:125%;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRoot>    <rect
-       y="811.43494"
+       y="799.79742"
        x="57.352825"
        height="203.44545"
        width="623.19531"
@@ -2205,22 +2137,22 @@
        inkscape:export-xdpi="2880"
        sodipodi:linespacing="125%"
        id="text3407-4-1-9-4-1-1-3"
-       y="853.89825"
+       y="842.26074"
        x="86.49398"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:30.49374962px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="853.89825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-align:start;writing-mode:lr;text-anchor:start;"
+         y="842.26074"
          x="86.49398"
          id="tspan3409-6-4-4-9-16-3-6"
          sodipodi:role="line">SRM (Standard Reference Method) or EBC (European Brewery Convention) </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="875.77325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-align:start;writing-mode:lr;text-anchor:start;"
+         y="864.13574"
          x="86.49398"
          sodipodi:role="line"
          id="tspan9253">are 2 units for measuring beer color </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="897.64825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-align:start;writing-mode:lr;text-anchor:start;"
+         y="886.01074"
          x="86.49398"
          sodipodi:role="line"
          id="tspan9278">(https://en.wikipedia.org/wiki/Beer_measurement#Colour).</tspan></text>
@@ -2229,22 +2161,22 @@
        inkscape:export-xdpi="2880"
        sodipodi:linespacing="125%"
        id="text3407-4-1-9-4-1-1-3-7"
-       y="948.81073"
+       y="937.17322"
        x="86.476891"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:30.49374962px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="948.81073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-align:start;writing-mode:lr;text-anchor:start;"
+         y="937.17322"
          x="86.476891"
          id="tspan3409-6-4-4-9-16-3-6-4"
          sodipodi:role="line">This chart has been put together from public information in the </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="970.68573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-align:start;writing-mode:lr;text-anchor:start;"
+         y="959.04822"
          x="86.476891"
          sodipodi:role="line"
          id="tspan9249">2008 BJCP Style Guidelines (http://www.bjcp.org/2008styles/styleintro.php) </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="992.56073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';text-align:start;writing-mode:lr;text-anchor:start;"
+         y="980.92322"
          x="86.476891"
          sodipodi:role="line"
          id="tspan9251">and the BJCP Color Guide (http://www.bjcp.org/colorguide.php).</tspan></text>
@@ -2255,35 +2187,108 @@
        id="text3407-4-1-9-4-1-1-3-1"
        y="66.827881"
        x="-596.68304"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Dekko;-inkscape-font-specification:'Dekko, Normal';text-align:start;writing-mode:lr;text-anchor:start;"
          y="66.827881"
          x="-596.68304"
          sodipodi:role="line"
          id="tspan9253-3">SRM  or  EBC/2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="29.126801"
-       y="1037.2622"
-       id="text4658"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4660"
-         x="29.126801"
-         y="1037.2622">Keldling Brew - &quot;A Tale of a Journey on The Path of Learning by Trial and Fear to Brew a Beer&quot; - https://keldling.github.io/brew/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="318.79099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Delius;-inkscape-font-specification:'Delius, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;"
+       x="471.74094"
        y="115.68217"
        id="text4662"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4664"
-         x="318.79099"
-         y="115.68217">Version 1.0</tspan></text>
+         x="471.74094"
+         y="115.68217">Version 1.1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Delius;-inkscape-font-specification:Delius;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.009163"
+       y="1034.5829"
+       id="text4658"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4660"
+         x="13.009163"
+         y="1034.5829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Metamorphous;-inkscape-font-specification:Metamorphous">Keldling Brew</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Konstytucyja;-inkscape-font-specification:Konstytucyja;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="157.84569"
+       y="1034.5411"
+       id="text4658-8"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4660-6"
+         x="157.84569"
+         y="1034.5411"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:100%;font-family:Konstytucyja;-inkscape-font-specification:Konstytucyja;text-align:start;writing-mode:lr-tb;text-anchor:start">A Tale of a Journey on The Path of Learning by Trial and Fear to Brew a Beer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Delius;-inkscape-font-specification:Delius;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="578.43335"
+       y="1035.0468"
+       id="text4658-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4660-4"
+         x="578.43335"
+         y="1035.0468"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dekko;-inkscape-font-specification:Dekko">https://keldling.github.io/brew/</tspan></text>
+    <g
+       transform="matrix(0.37268858,-0.202054,0.03893,0.24282715,-70.679452,1095.1242)"
+       id="g4170-1-86-7">
+      <g
+         transform="matrix(0.52991927,0.84804809,-0.84804809,0.52991927,0,0)"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.4927063px;line-height:125%;font-family:Delius;-inkscape-font-specification:Delius;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3399-48-6-6-4">
+        <path
+           d="m 439.13158,-341.9556 q 0,3.11189 -2.0996,5.24898 -2.09959,2.17457 -4.91154,2.17457 -2.5495,0 -4.23668,-1.64967 -1.64967,-1.61219 -1.64967,-3.89925 0,-2.09959 1.27475,-3.33685 1.31224,-1.27475 3.52431,-1.27475 1.5372,0 2.587,1.0498 1.08729,1.0123 1.08729,2.32454 0,1.12479 -1.0498,2.0621 -1.0123,0.97481 -2.24956,0.97481 -0.93732,0 -1.57469,-0.67486 -0.59989,-0.63738 -0.59989,-1.64968 0,-0.44992 0.26245,-0.97481 0.26245,-0.56239 0.26245,-0.63738 0,-1.12478 -0.78735,-1.12478 -0.63737,0 -1.19976,1.0123 -0.5249,0.97481 -0.5249,2.39953 0,1.87464 1.38723,3.18688 1.42472,1.34974 3.56181,1.34974 2.24956,0 3.93673,-1.83714 1.68717,-1.83714 1.68717,-4.34915 0,-3.26187 -4.34915,-7.2361 -1.5747,-1.42472 -3.14939,-2.84944 -1.19977,-1.12478 -1.19977,-1.72467 0,-0.97481 0.93732,-0.97481 0.14997,0 0.44991,0.14997 0.33744,0.14997 0.5249,0.14997 0.41242,0 0.41242,-0.59988 0,-0.56239 -0.97481,-1.31224 -1.19977,-0.86234 -2.36204,-1.72467 -1.87463,-1.5372 -1.87463,-3.33685 0,-0.4874 0.71236,-0.4874 0.075,0 0.22495,0.0375 0.18747,0.0375 0.33744,0.0375 0.74985,0 0.74985,-0.4874 0,-0.075 -0.59988,-1.46222 -0.82484,-1.79965 -1.46222,-3.63679 -0.37492,-1.0498 -0.37492,-1.5372 0,-1.23726 0.74985,-1.23726 0.48741,0 0.89982,1.76216 0.67487,2.88693 1.61219,5.06151 0.97481,2.13708 1.46222,3.0744 1.38723,2.69948 3.41183,5.62391 5.174,7.46105 5.174,12.3351 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bodoni Ornaments';-inkscape-font-specification:'Bodoni Ornaments'"
+           id="path5401"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.52991927,0.84804809,0.84804809,-0.52991927,0,0)"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.4927063px;line-height:125%;font-family:Delius;-inkscape-font-specification:Delius;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3399-4-2-6-2-89-0">
+        <path
+           d="m 437.59232,374.47259 q 0,2.0621 -1.72466,3.56181 -1.79965,1.61219 -4.42414,1.61219 -2.92443,0 -4.91154,-2.24957 -1.94963,-2.21206 -1.94963,-5.58641 0,-2.69947 1.64968,-5.99883 0.59989,-1.16228 3.89924,-6.63621 1.94963,-3.22437 2.69948,-4.79907 2.47452,-5.21148 2.66198,-7.46105 0.11248,-1.27475 0.14997,-1.42472 0.11248,-0.4874 0.59989,-0.4874 0.67486,0 0.67486,0.82484 0,0.37492 -1.57469,5.92384 -0.075,0.26245 -0.075,0.44992 0,0.41242 0.29994,0.41242 0.22495,0 0.63737,-0.14997 0.44992,-0.14998 0.63738,-0.14998 0.4874,0 0.4874,0.59989 0,1.49971 -1.87463,2.81195 -2.81195,1.98711 -2.81195,2.47452 0,0.4874 0.63737,0.4874 0.26245,0 0.74986,-0.14997 0.4874,-0.18746 0.71236,-0.18746 0.82484,0 0.82484,0.93732 0,0.97481 -1.49971,1.91213 -2.88694,1.87463 -3.14939,2.09959 -1.27475,1.04979 -2.62449,3.26186 -2.13708,3.48682 -2.13708,5.43645 0,3.22437 1.38723,4.94903 1.42472,1.72467 3.89924,1.72467 2.24956,0 3.63679,-1.19977 1.38723,-1.16227 1.38723,-3.03691 0,-4.01172 -3.14939,-4.01172 l -0.22495,0 q -0.18746,0.0375 -0.18746,0.22496 0,0.14997 0.82483,0.97481 0.82484,0.82484 0.82484,1.91213 0,1.08728 -0.86233,1.79965 -0.86233,0.71236 -2.17457,0.71236 -1.01231,0 -1.76216,-1.01231 -0.74986,-1.0123 -0.74986,-2.43702 0,-1.42472 1.19977,-2.54951 1.23726,-1.12478 2.73697,-1.12478 2.0246,0 3.33685,1.61219 1.31224,1.57469 1.31224,3.93673 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bodoni Ornaments';-inkscape-font-specification:'Bodoni Ornaments'"
+           id="path5404"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.37268858,-0.202054,0.03893,0.24282715,348.97864,1094.293)"
+       id="g4170-1-86-7-8">
+      <g
+         transform="matrix(0.52991927,0.84804809,-0.84804809,0.52991927,0,0)"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.4927063px;line-height:125%;font-family:Delius;-inkscape-font-specification:Delius;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3399-48-6-6-4-9">
+        <path
+           d="m 439.13158,-341.9556 q 0,3.11189 -2.0996,5.24898 -2.09959,2.17457 -4.91154,2.17457 -2.5495,0 -4.23668,-1.64967 -1.64967,-1.61219 -1.64967,-3.89925 0,-2.09959 1.27475,-3.33685 1.31224,-1.27475 3.52431,-1.27475 1.5372,0 2.587,1.0498 1.08729,1.0123 1.08729,2.32454 0,1.12479 -1.0498,2.0621 -1.0123,0.97481 -2.24956,0.97481 -0.93732,0 -1.57469,-0.67486 -0.59989,-0.63738 -0.59989,-1.64968 0,-0.44992 0.26245,-0.97481 0.26245,-0.56239 0.26245,-0.63738 0,-1.12478 -0.78735,-1.12478 -0.63737,0 -1.19976,1.0123 -0.5249,0.97481 -0.5249,2.39953 0,1.87464 1.38723,3.18688 1.42472,1.34974 3.56181,1.34974 2.24956,0 3.93673,-1.83714 1.68717,-1.83714 1.68717,-4.34915 0,-3.26187 -4.34915,-7.2361 -1.5747,-1.42472 -3.14939,-2.84944 -1.19977,-1.12478 -1.19977,-1.72467 0,-0.97481 0.93732,-0.97481 0.14997,0 0.44991,0.14997 0.33744,0.14997 0.5249,0.14997 0.41242,0 0.41242,-0.59988 0,-0.56239 -0.97481,-1.31224 -1.19977,-0.86234 -2.36204,-1.72467 -1.87463,-1.5372 -1.87463,-3.33685 0,-0.4874 0.71236,-0.4874 0.075,0 0.22495,0.0375 0.18747,0.0375 0.33744,0.0375 0.74985,0 0.74985,-0.4874 0,-0.075 -0.59988,-1.46222 -0.82484,-1.79965 -1.46222,-3.63679 -0.37492,-1.0498 -0.37492,-1.5372 0,-1.23726 0.74985,-1.23726 0.48741,0 0.89982,1.76216 0.67487,2.88693 1.61219,5.06151 0.97481,2.13708 1.46222,3.0744 1.38723,2.69948 3.41183,5.62391 5.174,7.46105 5.174,12.3351 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bodoni Ornaments';-inkscape-font-specification:'Bodoni Ornaments'"
+           id="path5407"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.52991927,0.84804809,0.84804809,-0.52991927,0,0)"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.4927063px;line-height:125%;font-family:Delius;-inkscape-font-specification:Delius;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3399-4-2-6-2-89-0-3">
+        <path
+           d="m 437.59232,374.47259 q 0,2.0621 -1.72466,3.56181 -1.79965,1.61219 -4.42414,1.61219 -2.92443,0 -4.91154,-2.24957 -1.94963,-2.21206 -1.94963,-5.58641 0,-2.69947 1.64968,-5.99883 0.59989,-1.16228 3.89924,-6.63621 1.94963,-3.22437 2.69948,-4.79907 2.47452,-5.21148 2.66198,-7.46105 0.11248,-1.27475 0.14997,-1.42472 0.11248,-0.4874 0.59989,-0.4874 0.67486,0 0.67486,0.82484 0,0.37492 -1.57469,5.92384 -0.075,0.26245 -0.075,0.44992 0,0.41242 0.29994,0.41242 0.22495,0 0.63737,-0.14997 0.44992,-0.14998 0.63738,-0.14998 0.4874,0 0.4874,0.59989 0,1.49971 -1.87463,2.81195 -2.81195,1.98711 -2.81195,2.47452 0,0.4874 0.63737,0.4874 0.26245,0 0.74986,-0.14997 0.4874,-0.18746 0.71236,-0.18746 0.82484,0 0.82484,0.93732 0,0.97481 -1.49971,1.91213 -2.88694,1.87463 -3.14939,2.09959 -1.27475,1.04979 -2.62449,3.26186 -2.13708,3.48682 -2.13708,5.43645 0,3.22437 1.38723,4.94903 1.42472,1.72467 3.89924,1.72467 2.24956,0 3.63679,-1.19977 1.38723,-1.16227 1.38723,-3.03691 0,-4.01172 -3.14939,-4.01172 l -0.22495,0 q -0.18746,0.0375 -0.18746,0.22496 0,0.14997 0.82483,0.97481 0.82484,0.82484 0.82484,1.91213 0,1.08728 -0.86233,1.79965 -0.86233,0.71236 -2.17457,0.71236 -1.01231,0 -1.76216,-1.01231 -0.74986,-1.0123 -0.74986,-2.43702 0,-1.42472 1.19977,-2.54951 1.23726,-1.12478 2.73697,-1.12478 2.0246,0 3.33685,1.61219 1.31224,1.57469 1.31224,3.93673 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bodoni Ornaments';-inkscape-font-specification:'Bodoni Ornaments'"
+           id="path5410"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>
