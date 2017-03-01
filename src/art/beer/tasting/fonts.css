@@ -1,8 +1,0 @@
-/* Title, Chapters */
-@font-face {
-    font-family: 'Metamorphous';
-    src: url('metamorphous/metamorphous-regular.woff2') format('woff2'),
-         url('metamorphous/metamorphous-regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
