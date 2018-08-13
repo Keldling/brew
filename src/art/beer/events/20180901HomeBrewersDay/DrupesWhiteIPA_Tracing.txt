@@ -1,0 +1,31 @@
+Ingrediens, Producent, Leverandør, Produktionsdato, Udløbsdato, Varenummer, Batch-/Lot-/Ref.nr
+
+MALT:
+-
+Flaked Wheat, Brewferm, Maltbazaren, ?, ?, 051-168, ?,
+Pilsner Malt Øko, Weyermann Malts, Maltbazaren, ?, 30 JUL 2019, 105-900, T 030 06:19:00,
+Abbey Malt, Castle Malting, Maltbazaren, ?, 23 NOV 2017, 450-525, BE M1605 00217,
+Biscuit Malt, ?, Albryg, ?, ?, 203002, ?,
+Cara Ruby Øko, Castle Malting, Albryg, ?, DEC 2018, casruby, ØCA 170167,
+Oat Malt, Castle Malting, Albryg, ?, ?, castle, ?,
+-
+
+HUMLE:
+-
+Ekuanot, ?, Maltbazaren, 2016, 28 FEB 2019, USEKUAEQUI, P92-ZJUEKU5071-MHL,
+Rakau, ?, Maltbazaren, 2016, 04 OKT 2019, RakauT905kg-100g, RAKT9016030-FNL,
+Huell Melon, ?, Maltbazaren, 2017, 31 AUG 2020, 168753295874541_100g_2017, T9017207-JHL,
+-
+
+GÆR:
+-
+SafAle US-05, Fermentis, Maltbazaren, ?, DEC 2020, 11399, 36333 0807 348,
+SafAle T-58, Fermentis, Maltbazaren, ?, MAY 2020, 11398, 31753 124 0831,
+SafAle WB-06, Fermentis, Maltbazaren, ?, OKT 2020, 11388, 35048 0657 290,
+Munkebo 004, Munkebo Mikrobryg, Brygforretningen.dk, ?, ?, Munkebo 004, ?,
+-
+
+ANDET:
+-
+Irish moss, ?, Maltbazaren, ?, 19 OKT 2019, 150.249.5-100gr, 9400060-MHL
+-
