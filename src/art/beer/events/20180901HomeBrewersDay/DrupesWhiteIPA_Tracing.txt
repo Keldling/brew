@@ -1,4 +1,4 @@
-Ingrediens, Producent, Leverandør, Produktionsdato, Udløbsdato, Varenummer, Batch-/Lot-/Ref.nr
+Råvare, Producent, Leverandør, Produktionsdato, Udløbsdato, Varenummer, Batch-/Lot-/Ref.nr
 
 MALT:
 -
@@ -22,7 +22,7 @@ GÆR:
 SafAle US-05, Fermentis, Maltbazaren, ?, DEC 2020, 11399, 36333 0807 348,
 SafAle T-58, Fermentis, Maltbazaren, ?, MAY 2020, 11398, 31753 124 0831,
 SafAle WB-06, Fermentis, Maltbazaren, ?, OKT 2020, 11388, 35048 0657 290,
-Munkebo 004, Munkebo Mikrobryg, Brygforretningen.dk, ?, ?, Munkebo 004, ?,
+Munkebo 004, Munkebo Mikrobryg, MUNKEBO BREWERY, ?, ?, Munkebo 004, Sab-B: DP0764 Rør 16,
 -
 
 ANDET:
