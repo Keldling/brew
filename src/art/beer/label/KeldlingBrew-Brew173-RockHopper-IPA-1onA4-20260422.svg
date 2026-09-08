@@ -33764,9 +33764,9 @@
      showguides="false"
      inkscape:window-width="1440"
      inkscape:window-height="842"
-     inkscape:window-x="0"
+     inkscape:window-x="-1"
      inkscape:window-y="30"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:document-rotation="0"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -34449,7 +34449,7 @@
                                    y="137.28558"
                                    x="846.33301"
                                    id="tspan4206-37-2-1-6-2"
-                                   sodipodi:role="line">Lot#173-2-1</tspan></text><path
+                                   sodipodi:role="line">Lot#173-2-X</tspan></text><path
                                    inkscape:connector-curvature="0"
                                    id="path11784-4-9-52-7-3-6-4-7"
                                    d="m -143.00413,677.38157 v 240.87014 l 131.27568,-0.39402"
